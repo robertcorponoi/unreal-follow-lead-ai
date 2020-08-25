@@ -6,7 +6,7 @@
 
 <p align="center">Demo project for my tutorial about creating an Ally AI that can follow the player around or lead them around the level.<p>
 
-This is the demo project for the tutorial at [Unreal C++ Creating a Follow/Lead AI](https://robertcorponoi.com/unreal-c/) which explains how to set up a an AI that can follow the player around or lead them to spots around the level.
+This is the demo project for the tutorial at [Unreal C++ Creating a Follow/Lead AI](https://robertcorponoi.com/unreal-c-creating-an-ai-that-follows-and-leads/) which explains how to set up a an AI that can follow the player around or lead them to spots around the level.
 
 This demo was created with Unreal 4.25.3
 
